@@ -1,0 +1,35 @@
+html, 
+body{
+    background: whitesmoke;
+    text-align: justify;
+    padding: 0px;
+    font-family: "Open Sans", sans-serif ;
+    color: black;
+    height: 100%;
+}
+
+footer{
+    background: black;
+    text-align:center;
+    color: white;
+}
+
+header{
+    background: black;
+    text-align: center;
+    color:whitesmoke;
+    text-align:center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+h1{
+    font-style: italic;
+}
